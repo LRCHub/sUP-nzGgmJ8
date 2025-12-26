@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "夜明けと蛍",
+  "base_artist": "n-buna",
+  "createdAt": "2025-12-26T14:28:32.868484Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜明けと蛍",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_夜明けと蛍_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜明けと蛍",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/02_夜明けと蛍_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜明けと蛍",
+      "artist": "sana",
+      "has_synced": true,
+      "path": "select/03_夜明けと蛍_sana.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜明けと蛍",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/04_夜明けと蛍_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜明けと蛍(ロクデナシ cover.)",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/05_夜明けと蛍(ロクデナシ_cover.)_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜明けと蛍",
+      "artist": "n-buna feat. IA",
+      "has_synced": true,
+      "path": "select/06_夜明けと蛍_n-buna_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夜明けと蛍",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/07_夜明けと蛍_96猫.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夜明けと蛍",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/08_夜明けと蛍_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夜明けと蛍 (feat. IA)",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/09_夜明けと蛍_(feat._IA)_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夜明けと蛍",
+      "artist": "ナブナ",
+      "has_synced": true,
+      "path": "select/10_夜明けと蛍_ナブナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜明けと蛍",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/pl_01_夜明けと蛍_n-buna.txt"
+    }
+  ]
+}
